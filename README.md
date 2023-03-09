@@ -23,6 +23,7 @@ THEN I find a concise, descriptive title
 ![CSS snip showing comments](./assets/screenshots/CSS_snipped.JPG)
 ## HTML Title and Icon
 ![HTML snip showing the head section where it was added a title and icon](./assets/screenshots/HTML_Head_Title_Icon.JPG)
+![](./assets/screenshots/HTML_Tab.JPG)
 ## HTML Image Alternative Text
 ![HTML snip showing the first box section where it was added the alternative text for the image](./assets/screenshots/HTML_Content_SEO_Box.JPG)
 

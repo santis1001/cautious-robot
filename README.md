@@ -18,6 +18,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
 # Screenshots
 ## CSS snip showing comments
 ![CSS snip showing comments](./assets/screenshots/CSS_snipped.JPG)
@@ -26,6 +27,8 @@ THEN I find a concise, descriptive title
 ![](./assets/screenshots/HTML_Tab.JPG)
 ## HTML Image Alternative Text
 ![HTML snip showing the first box section where it was added the alternative text for the image](./assets/screenshots/HTML_Content_SEO_Box.JPG)
-
+## Web Application Screenshots
+![HTML snip showing the first box section where it was added the alternative text for the image](./assets/screenshots/webapp1.png)
+![HTML snip showing the first box section where it was added the alternative text for the image](./assets/screenshots/webapp.png)
 # Link
 Website Link [Github Pages Link](https://santis1001.github.io/cautious-robot/)
